@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Cormorant Unicase', serif;
+    font-size: 40px;
+}
+
+p{
+    font-family: 'Cormorant Unicase', serif;
+    font-size: ;
+font-weight: ;/*si no descargamos varios tamaños en el link no va funcionar*/
+}
+/*para usar el import copiamos y pegas la etiqueta style en html en la cabecera o de @imporrthasta el ; y pegarlo arriba de el documento de css*/
